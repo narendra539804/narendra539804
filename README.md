@@ -8,6 +8,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1H1SHxjmljmFzIHsNrf4aJGV8bRd_3llN/view?usp=sharing](https://drive.google.com/file/d/1H1SHxjmljmFzIHsNrf4aJGV8bRd_3llN/view?usp=sharing)
 
 -My Portfolio: https://narendranaiduportfolio.netlify.app/
+
+![Narendra's github stats](https://github-readme-stats.vercel.app/api?username=narendra539804&theme=tokyonight&show_icons=true&hide=["issues"])
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/narendra-naidu-6340781a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/narendra-naidu-6340781a0/" height="30" width="40" /></a>
