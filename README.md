@@ -22,7 +22,7 @@
 
 ### Visitors Count 
 
-  <img src="https://profile-counter.glitch.me/govind030303/count.svg" />
+  <img src="https://profile-counter.glitch.me/narendra539804/count.svg" />
 </div>
 
 <h2 style="color:#1ecfe3;">Languages and Tools</h2>
