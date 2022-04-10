@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **narendranaidu5398@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H1SHxjmljmFzIHsNrf4aJGV8bRd_3llN/view?usp=sharing](https://drive.google.com/file/d/1H1SHxjmljmFzIHsNrf4aJGV8bRd_3llN/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1H1SHxjmljmFzIHsNrf4aJGV8bRd_3llN/view?usp=sharing](https://drive.google.com/file/d/1BbdM9_zHRCAc_5IM1Gn8q4jqEsh1bgnw/view?usp=sharing)
 
 -My Portfolio: https://narendranaiduportfolio.netlify.app/
 
